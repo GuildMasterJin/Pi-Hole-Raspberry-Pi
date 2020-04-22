@@ -1,0 +1,18 @@
+#	Jin's Adblock hosts list
+#	[April 22, 2020 3:22pm MST]
+#	btw this is not tested and inadvised
+#
+#
+0.0.0.0 adservice.google.com
+0.0.0.0 an.facebook.com
+0.0.0.0 cdn.districtm.io
+0.0.0.0 cdn.stat-rock.com
+0.0.0.0 playerservices.live.streamtheworld.com
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 settingsfd-geo.trafficmanager.net
+0.0.0.0 ssc-cms.33across.com
+0.0.0.0 static.apester.com
+0.0.0.0 synchrobox.adswizz.com
+0.0.0.0 trinitymedia.ai
+0.0.0.0 watson.telemetry.microsoft.com
+0.0.0.0 widgets.outbrain.com
