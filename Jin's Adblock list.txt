@@ -1,6 +1,6 @@
 #	Jin's Adblock hosts list
 #	[April 22, 2020 3:22pm MST]
-#	btw this is not tested and inadvised
+#	btw this is not tested and unadvised
 #
 #
 0.0.0.0 adservice.google.com
