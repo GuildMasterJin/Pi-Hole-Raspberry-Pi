@@ -1,8 +1,7 @@
 #	Jin's Adblock hosts list
 #	[April 22, 2020 3:22pm MST]
 #	btw this is not tested and unadvised
-#
-#
+
 0.0.0.0 adservice.google.com
 0.0.0.0 an.facebook.com
 0.0.0.0 cdn.districtm.io
