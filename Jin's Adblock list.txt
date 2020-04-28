@@ -1,5 +1,5 @@
 # Jin's Adblock hosts list
-# [April 22, 2020 3:22pm MST]
+# [April 28, 2020 3:38pm MST]
 # btw this is not tested and unadvised
 #
 #
