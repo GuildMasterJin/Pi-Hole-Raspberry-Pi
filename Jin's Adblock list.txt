@@ -1,70 +1,72 @@
 # Jin's Adblock hosts list
-# [April 28, 2020 3:57pm MST]
+# [April 28, 2020 4:37pm MST]
 # btw this is not tested and unadvised
 #
 #
-0.0.0.0 adservice.google.com
-0.0.0.0 an.facebook.com
-0.0.0.0 cdn.districtm.io
-0.0.0.0 cdn.stat-rock.com
-0.0.0.0 playerservices.live.streamtheworld.com
-0.0.0.0 securepubads.g.doubleclick.net
-0.0.0.0 settingsfd-geo.trafficmanager.net
-0.0.0.0 ssc-cms.33across.com
-0.0.0.0 static.apester.com
-0.0.0.0 synchrobox.adswizz.com
-0.0.0.0 trinitymedia.ai
-0.0.0.0 watson.telemetry.microsoft.com
-0.0.0.0 widgets.outbrain.com
-0.0.0.0 tile-service.weather.microsoft.com
-0.0.0.0 blob.weather.microsoft.com
-0.0.0.0 cdn.onenote.net
-0.0.0.0 wildcard.twimg.com
-0.0.0.0 oem.twimg.com
-0.0.0.0 star-mini.c10r.facebook.com
-0.0.0.0 evoke-windowsservices-tas.msedge.net
-0.0.0.0 candycrushsoda.king.com
-0.0.0.0 wallet.microsoft.com
-0.0.0.0 mediaredirect.microsoft.com
-0.0.0.0 wbd.ms
-0.0.0.0 int.whiteboard.microsoft.com
-0.0.0.0 whiteboard.microsoft.com
-0.0.0.0 whiteboard.ms
-0.0.0.0 store-images.s-microsoft.com
-0.0.0.0 www.bing.com
-0.0.0.0 www.bing.com
-0.0.0.0 ctldl.windowsupdate.com
-0.0.0.0 login.live.com
-0.0.0.0 dmd.metaservices.microsoft.com.akadns.net
-0.0.0.0 dmd.metaservices.microsoft.com
-0.0.0.0 v10.vortex-win.data.microsoft.com
-0.0.0.0 watson.telemetry.microsoft.com
-0.0.0.0 modern.watson.data.microsoft.com.akadns.net
-0.0.0.0 location-inference-westus.cloudapp.net
-0.0.0.0 inference.location.live.net
-0.0.0.0 g.akamaiedge.net
-0.0.0.0 wns.windows.com
-0.0.0.0 img-prod-cms-rt-microsoft-com.akamaized.net
-0.0.0.0 store-images.microsoft.com
-0.0.0.0 storeedgefd.dsx.mp.microsoft.com
-0.0.0.0 pti.store.microsoft.com
-0.0.0.0 cy2.md.mp.microsoft.com.
-0.0.0.0 displaycatalog.mp.microsoft.com
-0.0.0.0 cy2.settings.data.microsoft.com.akadns.net
-0.0.0.0 settings.data.microsoft.com
-0.0.0.0 settings-win.data.microsoft.com
-0.0.0.0 config.edge.skype.com
-0.0.0.0 browser.pipe.aria.microsoft.com
-0.0.0.0 skypeecs-prod-usw-0-b.cloudapp.net
-0.0.0.0 arc.msn.com
-0.0.0.0 g.msn.com.nsatc.net
-0.0.0.0 search.msn.com
-0.0.0.0 ris.api.iris.microsoft.com
-0.0.0.0 query.prod.cms.rt.microsoft.com
-0.0.0.0 prod.do.dsp.mp.microsoft.com
-0.0.0.0 windowsupdate.com
-0.0.0.0 dl.delivery.mp.microsoft.com
-0.0.0.0 update.microsoft.com
-0.0.0.0 delivery.mp.microsoft.com
-0.0.0.0 tsfe.trafficshaping.dsp.mp.microsoft.com
-0.0.0.0 go.microsoft.com
+adservice.google.com
+an.facebook.com
+cdn.districtm.io
+cdn.stat-rock.com
+playerservices.live.streamtheworld.com
+securepubads.g.doubleclick.net
+settingsfd-geo.trafficmanager.net
+ssc-cms.33across.com
+static.apester.com
+synchrobox.adswizz.com
+trinitymedia.ai
+watson.telemetry.microsoft.com
+widgets.outbrain.com
+tile-service.weather.microsoft.com
+blob.weather.microsoft.com
+cdn.onenote.net/livetile/?Language=en-US
+wildcard.twimg.com
+oem.twimg.com/windows/tile.xml
+star-mini.c10r.facebook.com
+evoke-windowsservices-tas.msedge.net
+candycrushsoda.king.com
+wallet.microsoft.com
+mediaredirect.microsoft.com
+wbd.ms
+int.whiteboard.microsoft.com
+whiteboard.microsoft.com
+whiteboard.ms
+store-images.s-microsoft.com
+www.bing.com/client
+www.bing.com/proactive
+www.bing.com/threshold/xls.aspx
+ctldl.windowsupdate.com
+login.live.com/ppsecure
+dmd.metaservices.microsoft.com.akadns.net
+dmd.metaservices.microsoft.com
+cy2.vortex.data.microsoft.com.akadns.net
+v10.vortex-win.data.microsoft.com/collect/v1
+watson.telemetry.microsoft.com
+modern.watson.data.microsoft.com.akadns.net
+location-inference-westus.cloudapp.net
+inference.location.live.net
+*g.akamaiedge.net
+*.wns.windows.com
+img-prod-cms-rt-microsoft-com.akamaized.net
+store-images.microsoft.com
+storeedgefd.dsx.mp.microsoft.com
+pti.store.microsoft.com
+cy2.*.md.mp.microsoft.com.*.
+displaycatalog.mp.microsoft.com
+cy2.settings.data.microsoft.com.akadns.net
+settings.data.microsoft.com
+settings-win.data.microsoft.com
+config.edge.skype.com
+browser.pipe.aria.microsoft.com
+skypeecs-prod-usw-0-b.cloudapp.net
+arc.msn.com
+g.msn.com.nsatc.net
+*.search.msn.com
+ris.api.iris.microsoft.com
+query.prod.cms.rt.microsoft.com
+*.prod.do.dsp.mp.microsoft.com
+*.windowsupdate.com
+*.dl.delivery.mp.microsoft.com
+*.update.microsoft.com
+*.delivery.mp.microsoft.com
+tsfe.trafficshaping.dsp.mp.microsoft.com
+go.microsoft.com
