@@ -1,6 +1,7 @@
-# Jin's Adblock hosts list
-# [April 28, 2020 6:26pm MST]
-# btw this is not tested and unadvised
+# Blocklist
+#
+# Last updated April 28, 2020 6:26pm MST
+#
 #
 #
 0.0.0.0	*.delivery.mp.microsoft.com
