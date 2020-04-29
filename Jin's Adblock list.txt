@@ -45,6 +45,7 @@
 0.0.0.0	activate-sjc0.adobe.com
 0.0.0.0	activate.adobe.com
 0.0.0.0	activate.wip3.adobe.com
+0.0.0.0	activation-v2.sls.microsoft.com/*
 0.0.0.0	ad.doubleclick.net
 0.0.0.0	adcash.com
 0.0.0.0	adnexus.net
@@ -92,6 +93,7 @@
 0.0.0.0	config.edge.skype.com
 0.0.0.0	corp.sts.microsoft.com
 0.0.0.0	corpext.msitadfs.glbdns2.microsoft.com
+0.0.0.0	crl.microsoft.com/pki/crl/*
 0.0.0.0	cs1.wpc.v0cdn.net
 0.0.0.0	cs11.wpc.v0cdn.net
 0.0.0.0	cs1137.wpc.gammacdn.net
@@ -173,6 +175,7 @@
 0.0.0.0	oca.telemetry.microsoft.com
 0.0.0.0	oca.telemetry.microsoft.com.nsatc.net
 0.0.0.0	ocos-office365-s2s.msedge.net
+0.0.0.0	ocsp.digicert.com/*
 0.0.0.0	odinvzc.azureedge.net
 0.0.0.0	oem.twimg.com/windows/tile.xml
 0.0.0.0	officeclient.microsoft.com
@@ -279,6 +282,7 @@
 0.0.0.0	www.bing.com/proactive
 0.0.0.0	www.bing.com/threshold/xls.aspx
 0.0.0.0	www.microsoft.com
+0.0.0.0	www.microsoft.com/pkiops/*
 0.0.0.0	www.msftncsi.com
 0.0.0.0	www.office.com
 0.0.0.0	xxlargepop.com
